@@ -1,5 +1,5 @@
 # Megaloader
-forked from [alembics/disco-diffusion](https://github.com/Ximaz/megaloader)
+forked from [Ximaz/megaloader](https://github.com/Ximaz/megaloader)
 
 ### Introduction
 This project will make you smile. It allows you to use some download plugins for many websites such as :
